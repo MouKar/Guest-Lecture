@@ -4,9 +4,9 @@ docker images
 docker images java  
 docker images java:latest 
 ## Search & Pull
-docker search ubuntu 
-docker search --filter stars=3 ubuntu 
-docker search --filter is-official=true ubuntu 
+docker search ubuntu  
+docker search --filter stars=3 ubuntu  
+docker search --filter is-official=true ubuntu  
 docker pull java 
 ## Run Containers
 docker run hello-world
