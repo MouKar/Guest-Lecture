@@ -1,9 +1,7 @@
 # MLOps Docker Command Reference)
 ## Images
 docker images  
-
 docker images java  
-
 docker images java:latest
 2. Search & Pull
 docker search ubuntu
