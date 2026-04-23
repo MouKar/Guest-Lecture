@@ -1,6 +1,5 @@
-# Docker Commands
-MLOps Docker Command Reference)
-# Images
+# MLOps Docker Command Reference)
+## Images
 docker images
 docker images java
 docker images java:latest
