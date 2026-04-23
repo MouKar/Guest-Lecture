@@ -1,7 +1,6 @@
 # Docker Commands
-MLOps Docker Cheat Sheet (Full Command
-Reference)
-1. Images
+MLOps Docker Command Reference)
+# Images
 docker images
 docker images java
 docker images java:latest
